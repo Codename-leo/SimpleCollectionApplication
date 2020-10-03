@@ -1,0 +1,10 @@
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\bin\Debug\WFormApplication.exe.config
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\bin\Debug\WFormApplication.exe
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\bin\Debug\WFormApplication.pdb
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.csprojAssemblyReference.cache
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.Form1.resources
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.Properties.Resources.resources
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.csproj.GenerateResource.cache
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.exe
+C:\Users\Mich\source\repos\WFormApplication\WFormApplication\obj\Debug\WFormApplication.pdb
