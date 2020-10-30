@@ -1,0 +1,12 @@
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\bin\Debug\TaskPerformance_02.exe.config
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\bin\Debug\TaskPerformance_02.exe
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\bin\Debug\TaskPerformance_02.pdb
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.csprojAssemblyReference.cache
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.CashierWindowQueueForm_cs.resources
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.CustomerView.resources
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.QueueForm.resources
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.Properties.Resources.resources
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.csproj.GenerateResource.cache
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.csproj.CoreCompileInputs.cache
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.exe
+C:\Users\Mich\source\repos\TaskPerformance_02\TaskPerformance_02\obj\Debug\TaskPerformance_02.pdb

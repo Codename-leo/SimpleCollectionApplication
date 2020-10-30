@@ -1,0 +1,11 @@
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands-on_02.csprojAssemblyReference.cache
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands_on_02.CashierWindowQueueForm.resources
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands_on_02.Queuingform.resources
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands_on_02.Properties.Resources.resources
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands-on_02.csproj.GenerateResource.cache
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands-on_02.csproj.CoreCompileInputs.cache
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\bin\Debug\Hands-on_02.exe.config
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\bin\Debug\Hands-on_02.exe
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\bin\Debug\Hands-on_02.pdb
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands-on_02.exe
+C:\Users\Mich\source\repos\Hands-on_02\Hands-on_02\obj\Debug\Hands-on_02.pdb

@@ -1,0 +1,13 @@
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.exe
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.deps.json
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.runtimeconfig.json
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.runtimeconfig.dev.json
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.dll
+C:\Users\Mich\source\repos\Genesis\Genesis\bin\Debug\netcoreapp3.1\Genesis.pdb
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.csprojAssemblyReference.cache
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.AssemblyInfoInputs.cache
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.AssemblyInfo.cs
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.csproj.CoreCompileInputs.cache
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.dll
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.pdb
+C:\Users\Mich\source\repos\Genesis\Genesis\obj\Debug\netcoreapp3.1\Genesis.genruntimeconfig.cache
